@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Ruhan
+##  Hi, I’m Ruhan
 
-I’m a Cyber Security graduate with a 2:1 BSc in Computer Security from Cardiff Metropolitan University. I’m aiming for a junior SOC or Security Analyst role and enjoy building hands-on detection labs, security tooling and incident-response playbooks.
+I’m a Cyber Security graduate with a 2:1 BSc in Computer Security from Cardiff Metropolitan University. I’m seeking a junior SOC or Security Analyst role and enjoy building hands-on detection labs, security tooling and incident-response playbooks.
 
 ⸻
 

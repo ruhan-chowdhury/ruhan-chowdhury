@@ -16,10 +16,7 @@ I’m a Cyber Security graduate with a 2:1 BSc in Computer Security from Cardiff
 
 📂 Featured Projects
 
-(Coming soon — currently building hands-on labs)
     •    SOC Detection Lab
-    •    OWASP Top 10 Demo Lab
-    •    Threat Intel Automation
     •    Ransomware Detection Research
 
 ⸻
